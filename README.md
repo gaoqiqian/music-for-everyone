@@ -8,6 +8,14 @@ Camera-based guitar interaction using JavaScript, MediaPipe hand tracking and We
 
 Click the full URL above to try the English version. No installation or account is required. Click **Hear a demo** to listen, or use **Space** to play a beat. Camera access is optional.
 
+## Screenshots
+
+| Easy mode — one-hand strumming | Chord mode — two-hand guidance |
+| --- | --- |
+| [![Air Duet single-hand guitar interface](docs/screenshots/music-easy-mode.jpg)](docs/screenshots/music-easy-mode.jpg) | [![Air Duet two-hand chord guide and chord cards](docs/screenshots/music-chord-mode.jpg)](docs/screenshots/music-chord-mode.jpg) |
+
+*Captured from the hosted English demo on 1 November 2026 with the camera off. These images show the interface and instructions, not a physical hand-tracking test. The hosted repertoire differs from the repository edition, as described below. Click an image for the full-size view.*
+
 ## Features
 
 - One-hand guitar strumming with automatic calibration and movement filtering.
