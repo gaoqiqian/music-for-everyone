@@ -1,0 +1,8 @@
+FluidR3 General MIDI soundfont samples
+Original soundfont: Frank Wen and contributors (FluidR3_GM).
+Rendered MP3 assets: Benjamin Gleitzman, midi-js-soundfonts.
+Source: https://github.com/gleitz/midi-js-soundfonts/tree/gh-pages/FluidR3_GM
+License for FluidR3 soundfont: Creative Commons Attribution 3.0
+https://creativecommons.org/licenses/by/3.0/
+Changes: selected MIDI notes 40 through 84 for acoustic_grand_piano and
+acoustic_guitar_steel; repackaged as JSON data URLs without changing audio.

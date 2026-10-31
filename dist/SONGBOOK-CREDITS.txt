@@ -1,0 +1,7 @@
+Advanced repertoire sources and adaptations
+
+Canon in D melody: Johann Pachelbel; Mutopia edition 1700, based on Jim Paterson (mfiles.co.uk), typesetter Anonymous, 2009. Creative Commons Attribution 3.0: https://creativecommons.org/licenses/by/3.0/ . Source: https://www.mutopiaproject.org/ftp/PachelbelJ/CanonInD/CanonInD.ly . First 16 bars extracted; guitar harmony, practice tempo and gesture mapping adapted for this site.
+
+Greensleeves melody: traditional; typeset Steve Dunlop, Mutopia-2014/03/30-1247; placed in the Public Domain. Source: https://www.mutopiaproject.org/ftp/Traditional/greensleeves/greensleeves.ly . Soprano line transcribed, final spacer omitted. Guitar harmony and practice tempo adapted for this site.
+
+Ode to Joy: Ludwig van Beethoven; typeset Peter Chubb, Mutopia-2009/08/05-528, Public Domain. Source: https://www.mutopiaproject.org/ftp/BeethovenLv/ode/ode.ly . All 16 soprano bars in G major used; guitar harmony and practice tempo adapted for this site.
