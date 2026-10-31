@@ -2,7 +2,11 @@
 
 Camera-based guitar interaction using JavaScript, MediaPipe hand tracking and Web Audio.
 
-**[Try the hosted English demo](https://air-duet-music-1028.cooper1872.chatgpt.site/en/)**
+## Live Demo — Open in Your Browser
+
+**[https://air-duet-music-1028.cooper1872.chatgpt.site/en/](https://air-duet-music-1028.cooper1872.chatgpt.site/en/)**
+
+Click the full URL above to try the English version. No installation or account is required. Click **Hear a demo** to listen, or use **Space** to play a beat. Camera access is optional.
 
 ## Features
 
